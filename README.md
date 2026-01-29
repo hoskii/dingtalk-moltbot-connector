@@ -195,6 +195,7 @@ dingtalk-moltbot-connector/
 ### Q: 出现405错误
 <img width="698" height="193" alt="image" src="https://github.com/user-attachments/assets/f2abd9c0-6c72-45b3-aee1-39fb477664bd" />
 注意~/.clawdbot/clawdbot.json中要添加chatCompletions端点
+
 ```json5
 {
   "gateway": {
